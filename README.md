@@ -1,5 +1,5 @@
 # Protection-of-image-in-social-media
-watermarking and encryption
+Watermarking and Encryption
 
 The idea is to watermark the image and encrypt the watermarked image so when someone tries to download the image it will be in encrypted format and only with the help of key they can download the original image.<br><br>
 Select a unique watermark for every image and simply embed on the original image.(embed.py)<br><br>
